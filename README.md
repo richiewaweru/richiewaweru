@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Richard Maina
+- 👋 Hi, I’m @richiewaweru
 - 👀 I’m interested in ...software development and AI
 - 🌱 I’m currently learning machine learning and web development.
 - 💞️ I’m looking to collaborate on AI projects.
