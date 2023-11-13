@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richiewaweru
-- 👀 I’m interested in ...software development and AI
-- 🌱 I’m currently learning machine learning and web development.
-- 💞️ I’m looking to collaborate on AI projects.
+- 👀 I’m interested in software development and AI
+- 🌱 I’m currently learning machine learning and software development roles.
+- 💞️ I’m also looking to collaborate on AI projects and software development roles.
 - 📫 How to reach me richie@uni.minerva.edu
 
 <!---
